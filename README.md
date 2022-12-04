@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 14 Model-View-Controller (MVC): Tech Blog
 
 ## Your Task
@@ -15,8 +13,6 @@ AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
-
-<<<<<<< HEAD
 
 ## Acceptance Criteria
 
